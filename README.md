@@ -34,4 +34,11 @@ Este GitHub reúne meus estudos, experimentos e projetos enquanto continuo evolu
 </div>
 
 
-![Snake animation](https://github.com/alvarenga97/alvarenga97/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/alvarenga97/alvarenga97/output/github-snake-dark.svg"
+    alt="Animação da cobrinha no gráfico de contribuições do GitHub"
+    width="100%"
+  />
+</p>
+
