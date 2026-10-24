@@ -29,9 +29,9 @@ Este GitHub reúne meus estudos, experimentos e projetos enquanto continuo evolu
 
 ## Estatísticas
 <div>
-<a href="https://github.com/Alvarenga97">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Alvarenga97&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Alvarenga97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/alvarenga97"><img loading="lazy"height="180"alt="Linguagens mais usadas por alvarenga97"src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarenga97&amp;layout=compact&amp;langs_count=7&amp;bg_color=000000&amp;title_color=39FF14&amp;text_color=00FF00&amp;border_color=008000"/>
+ <img loading="lazy"height="180"alt="Estatísticas do GitHub de alvarenga97"src="https://github-readme-stats.vercel.app/api?username=alvarenga97&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=000000&amp;title_color=39FF14&amp;text_color=00FF00&amp;icon_color=00FF00&amp;border_color=008000"/></a>
 </div>
 
-![Snake animation](https://github.com/Alvarenga97/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/alvarenga97/alvarenga97/blob/output/github-contribution-grid-snake.svg)
