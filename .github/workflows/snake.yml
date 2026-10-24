@@ -11,17 +11,19 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     permissions:
       contents: write
 
     steps:
-      - name: Generate snake
+      - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: alvarenga97
           outputs: |
-            dist/github-snake.svg?color_snake=%2300FF00&color_dots=%230D1117,%23003B1F,%23006D32,%2326A641,%2339D353
-            dist/github-snake-dark.svg?color_snake=%2300FF00&color_dots=%230D1117,%23003B1F,%23006D32,%2326A641,%2339D353
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Publish snake files
         uses: crazy-max/ghaction-github-pages@v3.1.0
