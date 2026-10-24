@@ -36,7 +36,7 @@ Este GitHub reúne meus estudos, experimentos e projetos enquanto continuo evolu
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/alvarenga97/alvarenga97/output/github-snake-dark.svg"
+    src="https://raw.githubusercontent.com/alvarenga97/alvarenga97/output/github-contribution-grid-snake-dark.svg"
     alt="Animação da cobrinha no gráfico de contribuições do GitHub"
     width="100%"
   />
