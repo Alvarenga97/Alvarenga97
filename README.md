@@ -30,10 +30,21 @@ Este GitHub reúne meus estudos, experimentos e projetos enquanto continuo evolu
 ## Estatísticas
 <div>
 <a href="https://github.com/Alvarenga97">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarenga97&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Alvarenga97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-stats-extended.vercel.app/api?username=Alvarenga97&show_icons=true&include_all_commits=true&theme=codeSTACKr"/>
+
+<img loading="lazy" height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Alvarenga97&langs_count=5&theme=codeSTACKr"/>
 </div>
 
+## Projetos VibeCoding
+<div>
+  <a href="https://github.com/Alvarenga97">
+  <img loading="lazy" height="180em" src="https://github-stats-extended.vercel.app/api/pin?username=Alvarenga97&repo=Alvarenga97%2FCine-Sorte&description_lines_count=3&theme=codeSTACKr"/>
+</div>
+
+## Projetos de Estudo
+<div>
+  
+</div>
 
 
 <p align="center">
