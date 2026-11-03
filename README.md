@@ -37,8 +37,8 @@ Este GitHub reúne meus estudos, experimentos e projetos enquanto continuo evolu
 
 ## Projetos VibeCoding
 <div>
-  <a href="https://github.com/Alvarenga97/Cine-Sorte">
-  <img loading="lazy" height="180em" src="https://github-stats-extended.vercel.app/api/pin?username=Alvarenga97&repo=Alvarenga97%2FCine-Sorte&description_lines_count=3&theme=codeSTACKr"/>
+  <a href="https://github.com/Alvarenga97/Flixy">
+  <img loading="lazy" height="180em" src="https://github-stats-extended.vercel.app/api/pin?username=Alvarenga97&repo=Alvarenga97%2FFlixy&description_lines_count=3&theme=codeSTACKr"/>
 </div>
 
 <p align="center">
